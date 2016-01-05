@@ -1,3 +1,4 @@
+/* HTML RULES */
 html 
 {
     background-color:  #DDDDDD;
@@ -5,13 +6,13 @@ html
     padding-left: 0.1em;
     padding-right: 0.1em;    
 }
-
+/* BODY RULES */
 body 
 {
     background-color: #7FDBFF;
     
 }
-/* Navigasyon Kismi icin */
+/* Static Navbar */
 #navbar 
 {
     background-color: whitesmoke;
