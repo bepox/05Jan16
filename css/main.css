@@ -1,15 +1,15 @@
 /* HTML RULES */
 html 
 {
-    background-color:  #DDDDDD;
+    background-color:  #7FDBFF;
     padding-top: 0.1em;
-    padding-left: 0.1em;
-    padding-right: 0.1em;    
+  /*padding-left: 0.1em;
+    padding-right: 0.1em; */
 }
 /* BODY RULES */
 body 
 {
-    background-color: #DDDDDD;
+    background-color: #FFFFFF ;
     
 }
 
@@ -17,8 +17,8 @@ body
 #navbar 
 {
     background-color: whitesmoke;
-    height: 80px; width: 98vw;
+    height: 80px; width: 100vw;
     position: fixed;
-	top: 0em;
-    box-shadow: 2px 2px 4px #888888;
+	top: 0px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
