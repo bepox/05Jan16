@@ -2,22 +2,27 @@
 html 
 {
     background-color:  #7FDBFF;
-    padding-top: 0.1em;
-  /*padding-left: 0.1em;
-    padding-right: 0.1em; */
+    padding-top: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
 }
 /* BODY RULES */
 body 
 {
     background-color: #FFFFFF ;
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    padding-top: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    position: relative;
 }
 
 /* Static Navbar */
-#navbar 
+.navbar 
 {
     background-color: whitesmoke;
-    height: 80px; width: 100vw;
+    height: 80px; 
+    width: 100vw;
     position: fixed;
 	top: 0px;
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
