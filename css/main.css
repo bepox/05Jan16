@@ -9,7 +9,7 @@ html
 /* BODY RULES */
 body 
 {
-    background-color: #7FDBFF;
+    background-color: #DDDDDD;
     
 }
 
@@ -17,8 +17,8 @@ body
 #navbar 
 {
     background-color: whitesmoke;
-    height: 5em; width: 100vw;
+    height: 80px; width: 98vw;
     position: fixed;
 	top: 0em;
-    
+    box-shadow: 2px 2px 4px #888888;
 }
