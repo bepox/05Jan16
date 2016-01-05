@@ -12,13 +12,13 @@ body
     background-color: #7FDBFF;
     
 }
+
 /* Static Navbar */
 #navbar 
 {
     background-color: whitesmoke;
-    height: 50px;
-    line-height: 50px;
+    height: 5em; width: 100vw;
     position: fixed;
-	top: 0;
+	top: 0em;
     
 }
